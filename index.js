@@ -117,6 +117,8 @@ function viewEmployees(){
 
 function endProgram(){
     // Later on this does something
+
+    
     process.exit(0);
 }
 
